@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/serum-dex-ui/static/css/main.0d007200.chunk.css",
-    "main.js": "/serum-dex-ui/static/js/main.93383f98.chunk.js",
-    "main.js.map": "/serum-dex-ui/static/js/main.93383f98.chunk.js.map",
+    "main.js": "/serum-dex-ui/static/js/main.8104c85b.chunk.js",
+    "main.js.map": "/serum-dex-ui/static/js/main.8104c85b.chunk.js.map",
     "runtime-main.js": "/serum-dex-ui/static/js/runtime-main.d91a094d.js",
     "runtime-main.js.map": "/serum-dex-ui/static/js/runtime-main.d91a094d.js.map",
     "static/css/2.3a0ac4c9.chunk.css": "/serum-dex-ui/static/css/2.3a0ac4c9.chunk.css",
-    "static/js/2.4e2505fe.chunk.js": "/serum-dex-ui/static/js/2.4e2505fe.chunk.js",
-    "static/js/2.4e2505fe.chunk.js.map": "/serum-dex-ui/static/js/2.4e2505fe.chunk.js.map",
+    "static/js/2.7e16d365.chunk.js": "/serum-dex-ui/static/js/2.7e16d365.chunk.js",
+    "static/js/2.7e16d365.chunk.js.map": "/serum-dex-ui/static/js/2.7e16d365.chunk.js.map",
     "index.html": "/serum-dex-ui/index.html",
-    "precache-manifest.7ecb573728d199bccbd8e93d67401ac4.js": "/serum-dex-ui/precache-manifest.7ecb573728d199bccbd8e93d67401ac4.js",
+    "precache-manifest.5c2426ac8b6004ab62fa3c48a6e42ae5.js": "/serum-dex-ui/precache-manifest.5c2426ac8b6004ab62fa3c48a6e42ae5.js",
     "service-worker.js": "/serum-dex-ui/service-worker.js",
     "static/css/2.3a0ac4c9.chunk.css.map": "/serum-dex-ui/static/css/2.3a0ac4c9.chunk.css.map",
     "static/css/main.0d007200.chunk.css.map": "/serum-dex-ui/static/css/main.0d007200.chunk.css.map",
-    "static/js/2.4e2505fe.chunk.js.LICENSE.txt": "/serum-dex-ui/static/js/2.4e2505fe.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/serum-dex-ui/static/media/logo.49174c73.svg"
+    "static/js/2.7e16d365.chunk.js.LICENSE.txt": "/serum-dex-ui/static/js/2.7e16d365.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/serum-dex-ui/static/media/logo.d53f930d.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d91a094d.js",
     "static/css/2.3a0ac4c9.chunk.css",
-    "static/js/2.4e2505fe.chunk.js",
+    "static/js/2.7e16d365.chunk.js",
     "static/css/main.0d007200.chunk.css",
-    "static/js/main.93383f98.chunk.js"
+    "static/js/main.8104c85b.chunk.js"
   ]
 }
